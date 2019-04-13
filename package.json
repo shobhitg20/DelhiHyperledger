@@ -15,9 +15,7 @@
     "composer",
     "composer-network"
   ],
-  "engines": {
-    "node": "10.13.0"
-  },
+  
   "author": "Shobhit",
   "email": "shobhit.20g@gmail.com",
   "license": "Apache-2.0",
